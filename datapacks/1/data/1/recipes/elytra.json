@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "DTD",
+        "FiF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:feather"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        },
+        "T": {
+            "item": "minecraft:diamond_chestplate"
+        },
+        "F": {
+            "item": "minecraft:firework_rocket"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 2
+    }
+}
